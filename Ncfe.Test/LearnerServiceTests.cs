@@ -11,7 +11,6 @@ namespace Ncfe.Test
         private readonly Mock<IArchivedDataService> _archivedDataService;
         private readonly Mock<IFailoverLearnerDataAccess> _failoverLearnerDataAccess;
 
-
         private readonly LearnerService _learnerService;
 
         public LearnerServiceTests()
